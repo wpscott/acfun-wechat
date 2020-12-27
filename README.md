@@ -1,24 +1,4 @@
 # acfun-wechat
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+AcFun直播用仿微信弹幕界面
+![例子](https://raw.githubusercontent.com/wpscott/acfun-wechat/master/sample/sample.gif)
